@@ -8,3 +8,4 @@ Hands-on labs and practical exercises in cybersecurity.
 - Basic threat detection
 
 ## Labs
+- Port Scanning and Web Service Discovery
