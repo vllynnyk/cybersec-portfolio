@@ -9,3 +9,4 @@ Hands-on labs and practical exercises in cybersecurity.
 
 ## Labs
 - Port Scanning and Web Service Discovery
+- Post-Exploitation with Meterpreter (SMB)
